@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-06T16:04:35 IST" name="Default suite" finished-at="2024-10-06T16:06:31 IST" duration-ms="116409">
+    <groups>
+    </groups>
+    <test started-at="2024-10-06T16:04:35 IST" name="Default test" finished-at="2024-10-06T16:06:31 IST" duration-ms="116409">
+      <class name="hybridApp.KhanAcademy_APP">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:hybridApp.KhanAcademy_APP@304bb45b]" started-at="2024-10-06T16:04:35 IST" name="setUp" finished-at="2024-10-06T16:04:55 IST" duration-ms="19635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="explore()[pri:1, instance:hybridApp.KhanAcademy_APP@304bb45b]" started-at="2024-10-06T16:04:55 IST" name="explore" finished-at="2024-10-06T16:05:13 IST" duration-ms="18507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- explore -->
+        <test-method signature="bookmarks()[pri:2, instance:hybridApp.KhanAcademy_APP@304bb45b]" started-at="2024-10-06T16:05:13 IST" name="bookmarks" finished-at="2024-10-06T16:05:45 IST" duration-ms="32131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookmarks -->
+        <test-method signature="computerScience()[pri:3, instance:hybridApp.KhanAcademy_APP@304bb45b]" started-at="2024-10-06T16:05:45 IST" name="computerScience" finished-at="2024-10-06T16:05:49 IST" duration-ms="3155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- computerScience -->
+        <test-method signature="checkallBookmarks()[pri:4, instance:hybridApp.KhanAcademy_APP@304bb45b]" started-at="2024-10-06T16:05:49 IST" name="checkallBookmarks" finished-at="2024-10-06T16:05:58 IST" duration-ms="9647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkallBookmarks -->
+        <test-method signature="clearallBookmarks()[pri:5, instance:hybridApp.KhanAcademy_APP@304bb45b]" started-at="2024-10-06T16:05:58 IST" name="clearallBookmarks" finished-at="2024-10-06T16:06:05 IST" duration-ms="7070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearallBookmarks -->
+        <test-method signature="lifeSkills()[pri:6, instance:hybridApp.KhanAcademy_APP@304bb45b]" started-at="2024-10-06T16:06:05 IST" name="lifeSkills" finished-at="2024-10-06T16:06:31 IST" duration-ms="26126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lifeSkills -->
+      </class> <!-- hybridApp.KhanAcademy_APP -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
